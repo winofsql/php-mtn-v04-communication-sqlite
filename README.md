@@ -1,4 +1,4 @@
-# php-mtn-v04-communication
+# php-mtn-v04-communication-sqlite
 
 - 会話コントロールによるコントロールプロテクト
 
