@@ -2,6 +2,6 @@
 
 - 会話コントロールによるコントロールプロテクト
 
-![image](https://user-images.githubusercontent.com/1501327/158038817-b88e3d8d-4a43-46a3-a864-e52c3ed064bb.png)
+![image](https://github.com/winofsql/php-mtn-v04-communication-sqlite/assets/1501327/8b96a9fd-dd76-4902-a9c4-45d60e32b01f)
 
-![image](https://user-images.githubusercontent.com/1501327/158038842-135fc56a-2355-447a-a59f-81b491d3fc37.png)
+![image](https://github.com/winofsql/php-mtn-v04-communication-sqlite/assets/1501327/0f2d5f8f-584e-4c27-8539-deb3bbe1310a)
