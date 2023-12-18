@@ -24,7 +24,7 @@
         border: 1px solid #000000;
     }
     ``` 
-
+    - 社員コードの幅を定義
 - ✅ setting.php
     ```php
     // グローバル変数
