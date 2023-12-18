@@ -9,21 +9,21 @@
 ![image](https://github.com/winofsql/php-mtn-v04-communication-sqlite/assets/1501327/0f2d5f8f-584e-4c27-8539-deb3bbe1310a)
 
 - ✅ setting.css ( コントロール用 css 追加 )
-```css
-/* 小さなテキスト入力サイズ */
-.w100 {
-    width:100px;
-}
-
-/* 入力の行間隔 */
-.entry {
-    margin-bottom: 20px;
-}
-
-.form-control {
-    border: 1px solid #000000;
-}
-``` 
+    ```css
+    /* 小さなテキスト入力サイズ */
+    .w100 {
+        width:100px;
+    }
+    
+    /* 入力の行間隔 */
+    .entry {
+        margin-bottom: 20px;
+    }
+    
+    .form-control {
+        border: 1px solid #000000;
+    }
+    ``` 
 
 - ✅ setting.php
     ```php
