@@ -37,3 +37,7 @@
     $disabled_1 = "";
     $disabled_2 = $disabled_type;
     ```
+    - disabled
+        - ボタン用
+    - readonly
+        - 入力フィールド用
