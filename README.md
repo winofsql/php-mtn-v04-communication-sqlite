@@ -41,3 +41,30 @@
         - ボタン用
     - readonly
         - 入力フィールド用
+
+- ✅ syain.php
+    - ヘッダー(第一会話) から ボディ(第二会話)への遷移
+        ```php
+        // $gno が 1 でエラーが無い場合( ここではエラーチェクをしていない )
+        // プロテクトコントロール
+        $readonly_1 = $disabled_type_text;
+        $readonly_2 = "";
+        $disabled_1 = $disabled_type;
+        $disabled_2 = "";
+       
+        // 次の画面の会話番号( 確認がクリックされた )
+        $gno = 2;
+        ```
+
+    - ヘッダー(第ニ会話) から ボディ(第一会話)への遷移
+        ```php
+        // $gno が 2 でエラーが無い場合( ここではエラーチェクをしていない )
+        // プロテクトコントロール
+        $readonly_1 = "";
+        $readonly_2 = $disabled_type_text;
+        $disabled_1 = "";
+        $disabled_2 = $disabled_type;
+        
+        // 次の画面の会話番号( 更新がクリックされた )
+        $gno = 1;
+        ```
