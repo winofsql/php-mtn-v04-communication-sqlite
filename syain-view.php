@@ -34,7 +34,7 @@ function check(){
         onsubmit="return check()">
     <div>
         <div class="entry left">社員コード</div>
-        <div class="entry right">
+        <div class="entry ">
             <input class="form-control w100"
                 required
                 <?= $readonly_1 ?>
